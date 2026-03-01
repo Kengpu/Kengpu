@@ -40,6 +40,7 @@
 [![](https://visitcount.itsvg.in/api?id=Kengpu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+<img src="line.gif" height="100" width="100%">
 <h4 align="center">the snake 🐍</h4>
 <p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/Kengpu/Kengpu/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
 
@@ -55,3 +56,4 @@
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Love%20is%20not%20about%20how%20many%20days,%20weeks%20or%20months%20you%20have%20been%20together,%20it%27s%20all%20about%20how%20much%20you%20love%20each%20other%20every%20single%20day.&author=Unknown" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="footer.svg" width="100%">

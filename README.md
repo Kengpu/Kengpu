@@ -17,6 +17,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Kengpu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<div>
+  
+<img src="https://github.com/Kengpu/Kengpu/raw/main/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Kengpu/Kengpu/raw/main/languages.svg#gh-dark-mode-only" />
+
+</div>
+
 </div>
 
 ## 🏆 GitHub Trophies

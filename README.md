@@ -4,6 +4,13 @@
   </div>
 </div>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=F7AC00&background=FFFFFF00&width=435&lines=Welcome!+Explore+my+projects+and+code;Hi!+Check+out+what+I%E2%80%99m+building+here;Hello!+Dive+into+my+GitHub+creations)](https://git.io/typing-svg)
+  
+</div>
+
+
 # 🌟 **Hello, my name is Keng Puthearith** 🌟
 
 ![Keng Puthearith](https://img.shields.io/badge/Keng_Puthearith-🔥%20Awesome-%23FFDD00?style=for-the-badge&logo=github)
